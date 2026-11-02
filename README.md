@@ -5,7 +5,7 @@
 **Authors — Dmytro Lande & Leonard Straschnoy**
 
 HAI-LEAF is a methodological framework for human–AI collaboration in the ethical assessment of laws, bills, decrees, and subordinate legislation. It combines provision analysis, stakeholder identification, reconstruction of decision rationales using Throughput Modeling (TPM), consequence analysis, and critical evidence review.
-
+![HAI-LEAF Framework](HAI_LEAF.png)
 The framework connects each substantive assessment to a document passage, an explicit ethical criterion, and an inspectable argument. Human reviewers retain responsibility for the final decision.
 
 > Legal validity, drafting quality, and ethical acceptability must be assessed separately.
